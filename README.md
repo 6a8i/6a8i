@@ -12,7 +12,7 @@
 ### Repositórios
 - [Techno](https://github.com/6a8i/vue.techno): Projeto em Vue.js durante realização do curso livre online (Vue.js Completo, [Origamid](https://www.origamid.com))
 - [Data Driven Design](https://github.com/6a8i/Data-Driven-Design---Simple-Architecture): Exemplo simples de arquitetura em camadas de API orientada a dados.
-- [VVIki](https://github.com/6a8i/vviki): Projeto de wiki.
+- [VViki](https://github.com/6a8i/vviki): Projeto de wiki.
 
 ### Competências
 ```
