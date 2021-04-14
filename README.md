@@ -4,7 +4,7 @@
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:gbizzon@hotmail.com)](mailto:gbizzon@hotmail.com)
 #### Desenvolvedora .NET
 ```
-  Acadêmica do curso de bacharelado de sistemas de informação com quase 2 anos de experiência em 
+  Formada em sistemas de informação com quase 3 anos de experiência em 
   desenvolvimento de software, utiizando a linguagem de programação C Sharp. Adoro novos desafios,
   assim como aprender diferentes assuntos do mundo de software e também transmitir o que aprendo.
 ```
@@ -13,12 +13,14 @@
 - [Techno](https://github.com/6a8i/vue.techno): Projeto em Vue.js durante realização do curso livre online (Vue.js Completo, [Origamid](https://www.origamid.com))
 - [Data Driven Design](https://github.com/6a8i/Data-Driven-Design---Simple-Architecture): Exemplo simples de arquitetura em camadas de API orientada a dados.
 - [VViki](https://github.com/6a8i/vviki): Projeto de wiki.
+- [SubSync](https://github.com/6a8i/SubSync): Aprendizado.
+- [RouteGraph](https://github.com/6a8i/RouteGraph): Aprendizado.
 
 ### Competências
 ```
-- Projetos pessoais utilizando linguagens de programação C# (C Sharp), Java e C, tecnologias como Blazor, 
+- Projetos pessoais utilizando linguagens de programação C# (C Sharp) e tecnologias como Blazor, 
 Entity Framework, Vue.js.
-- Experiência em tecnologias como .NET, Windows Forms, banco de dados MSSQL, Postgres e MySQL, controladores 
+- Experiência com a plataforma .NET e Windows Forms, banco de dados MSSQL e Postgres, controladores 
 de versão SVN e Git.
 - Estudos voltados para qualidade de software utilizando KPIs e ferramentas como Sonarqube e MSBuild.
 - Projetos Acadêmicos de análise de dados utilizando R.
